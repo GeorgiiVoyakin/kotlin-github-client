@@ -13,7 +13,10 @@ repositories {
 }
 
 dependencies {
-    implementation("org.kohsuke:github-api:1.133")
+    implementation("io.ktor:ktor-client-core:1.6.3")
+    implementation("io.ktor:ktor-client-cio:1.6.3")
+    implementation("io.ktor:ktor-gson:1.6.3")
+    implementation("ch.qos.logback:logback-classic:1.2.5")
     testImplementation("org.jetbrains.kotlin:kotlin-test:1.5.21")
 }
 
