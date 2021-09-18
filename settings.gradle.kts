@@ -1,3 +1,3 @@
 
-rootProject.name = "firstKotlinApp"
+rootProject.name = "kotlin-github-client"
 
