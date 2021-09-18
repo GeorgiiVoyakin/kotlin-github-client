@@ -5,7 +5,7 @@ plugins {
     application
 }
 
-group = "me.georgii"
+group = "ru.mirea.ikbo1319"
 version = "1.0-SNAPSHOT"
 
 repositories {
